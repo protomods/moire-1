@@ -56,7 +56,7 @@ var audio = new Audio
 
 require('soundcloud-badge')({
     client_id: 'ded451c6d8f9ff1c62f72523f49dab68'
-  , song: 'https://soundcloud.com/coltongorg/floating'
+  , song: 'https://soundcloud.com/user-84195424/j0sh-envy'
   , getFonts: true
 }, function(err, src, data) {
   if (err) throw err
